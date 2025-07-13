@@ -1,7 +1,7 @@
 export default {
   async fetch(request, env) {
     const inputs = {
-      prompt: "cyberpunk cat",
+      prompt: "bangladesh map with natural beutiful scenary from various areas of bangladesh",
     };
 
     const response = await env.AI.run(
