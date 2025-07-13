@@ -9,4 +9,7 @@
   "observability": {
     "enabled": true
   }
+  "routes": {
+    "text2image.mahedihasan.com/*"
+  }
 }
