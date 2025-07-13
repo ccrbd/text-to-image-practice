@@ -5,8 +5,9 @@ export default {
       return new Response(
         `<!DOCTYPE html>
         <html>
+        <title>AI Image Generator</title>
           <body style="font-family:sans-serif; padding:2rem;">
-            <h1>Stable Diffusion on Cloudflare</h1>
+            <h1>Generate your desired image</h1>
             <form method="POST">
               <label>
                 Enter your prompt:<br/>
